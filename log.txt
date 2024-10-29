@@ -1,0 +1,37 @@
+log.txt is read only
+Setting native video mode to 640, 480 - Fullscreen: 0  Aspect Ratio: 0.00
+App got focus
+GL Version = 4.5.13399 Compatibility Profile Context 15.201.1151.0
+
+GL Vendor = ATI Technologies Inc.
+
+GL Renderer = AMD Radeon(TM) HD 6480G
+
+Initialized GL defaults
+GL depth buffer: 16 bit
+Initialized Audio
+Initializing extensions
+Initting FMOD  00020220...
+[ ] - 0. Speakers (Realtek High Definition Audio)
+FMOD initted
+FMOD error! (13) Error loading file.
+
+Clicked Online entity at An entity
+Connection succeeded.
+App lost focus
+App got focus
+Clicked the Cancel entity at An entity
+Connection succeeded.
+Processing connection...
+We'll need to update 0 files.
+Entering game...
+Couldn't load surface game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load game/tiles_page1_icon.rttex
+Couldn't load surface game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load game/tiles_page1_icon.rttex
+Clicked quick_exit entity at An entity
+Canceled
+App shutting down from getting the X clicked
+Entered background
+Killing sound cache
+App lost focus
